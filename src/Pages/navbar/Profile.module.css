@@ -1,0 +1,13 @@
+.profile{
+    display: flex;
+
+}
+
+.sidebar{
+    flex-basis:20%;
+    padding:10px;
+}
+.mainContent{
+    flex-basis:80%;
+    padding:10px;
+}
